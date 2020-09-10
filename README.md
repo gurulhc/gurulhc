@@ -12,18 +12,22 @@ Muna is a mobile crypto app for sending, receiving and investing money with up t
 * 💲  Deposit from bank account (Coming soon)
 * 💰 Withdraw to bank account (Coming soon)
 
-> Currently, Muna app is on public testing. [Download Muna on Google playstore](https://play.google.com/store/apps/details?id=com.munawallet.muna). If you find any bug on the app, 🙏 kindly buzz on [Facebook](https://facebook.com/luckyhenrychuky) or send a [@luckyhenrychuky](https://twitter.com/luckyhenrychuky) DM
+> Currently, Muna app is on public testing. You can [Download Muna on Google playstore](https://play.google.com/store/apps/details?id=com.munawallet.muna). If you find any bug on the app, 🙏 kindly buzz on [Facebook](https://facebook.com/luckyhenrychuky) or send a [@luckyhenrychuky](https://twitter.com/luckyhenrychuky) DM
+> Send me your USDN address to receive a tip after setting up your Muna account.
 
 ### Social Profiles
+- [Blog](https://medium.com/munawallet)
 - [Twitter](https://twitter.com/munawallet)
 - [Facebook](https://facebook.com/munawallet)
 - [LinkedIn](https://linkedin.com/company/munawallet)
 - [Telegram Community](https://t.me/munacommunity)
 
 ### Aha, we can talk about me now 😂
-- 🔭 I’m currently running a company, Building Muna Wallet and Volunteering on the Blockchain space.
+I'm a visionary. I don't just think, i commit my time and resources. I'm CEO at Muna Wallet and Quru Lab, a web, mobile and blockchain development lab in Agbor, Nigeria. I'm also Africa regional lead on Waves Blockchain.
+
+- 🔭 I’m currently running a software development company, building Muna Wallet and mentoring on the Blockchain space.
 - 💬 You can ask me about Africa, Cryptocurrency, Bitcoin, Blockchain and how to start career in tech.
-- 📫 You reach me with a buzz on [Facebook](https://facebook.com/luckyhenrychuky) or send a [@luckyhenrychuky](https://twitter.com/luckyhenrychuky) DM
+- 📫 You reach me with a buzz on [Facebook](https://facebook.com/luckyhenrychuky) or send me a [Twitter DM](https://twitter.com/luckyhenrychuky)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 1 + 1 = 2
 
