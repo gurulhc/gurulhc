@@ -1,4 +1,4 @@
-Don't worry about me 😉, Let's talk about ✨Muna Wallet✨, a mobile app I'm currently building with my team.
+Let's talk about ✨Muna Wallet✨, a mobile app I'm currently building with my team.
 
 ### Muna Wallet is here 👋 
 
@@ -23,7 +23,7 @@ Muna is a mobile crypto app for sending, receiving and investing money with up t
 - [Telegram Community](https://t.me/munacommunity)
 
 ### Aha, we can talk about me now 😂
-I'm a visionary. I don't just think, i commit my time and resources. I'm CEO at Muna Wallet and Quru Lab, a web, mobile and blockchain development lab in Agbor, Nigeria. I'm also Africa regional lead on Waves Blockchain.
+I'm a visionary. I don't just think, i commit my time and resources. I'm CEO at Muna Wallet and Quru Lab, a web, mobile and blockchain development lab in Agbor, Nigeria. I'm also Africa regional lead at Waves Protocol
 
 - 🔭 I’m currently running a software development company, building Muna Wallet and mentoring on the Blockchain space.
 - 💬 You can ask me about Africa, Cryptocurrency, Bitcoin, Blockchain and how to start career in tech.
