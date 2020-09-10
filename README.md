@@ -1,6 +1,5 @@
 Hello!
 #### Forget about me, Let's talk about the ✨Muna Wallet✨, a mobile app I'm currently building with my co-founder 
-<br>
 
 ### Muna Wallet is here 👋 
 
