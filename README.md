@@ -1,4 +1,5 @@
-Let's talk about ✨Muna Wallet✨, a mobile app I'm currently building with my team.
+Pardon me 🙏
+Let's first talk about ✨Muna Wallet✨, a mobile app I'm currently building with my team.
 
 ### Muna Wallet is here 👋 
 
@@ -12,7 +13,7 @@ Muna is a mobile crypto app for sending, receiving and investing money with up t
 * 💲  Deposit from bank account (Coming soon)
 * 💰 Withdraw to bank account (Coming soon)
 
-> Currently, Muna app is on public testing. You can [Download Muna on Google playstore](https://play.google.com/store/apps/details?id=com.munawallet.muna). If you find any bug on the app, 🙏 kindly buzz on [Facebook](https://facebook.com/luckyhenrychuky) or send a [@luckyhenrychuky](https://twitter.com/luckyhenrychuky) DM
+Currently, Muna app is on public testing. You can [Download Muna on Google playstore](https://play.google.com/store/apps/details?id=com.munawallet.muna). If you find any bug on the app, 🙏 kindly buzz on [Facebook](https://facebook.com/luckyhenrychuky) or send a [Twitter DM](https://twitter.com/luckyhenrychuky)
 > Send me your USDN address to receive a tip after setting up your Muna account.
 
 ### Social Profiles
