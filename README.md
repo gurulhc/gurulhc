@@ -24,7 +24,7 @@ Currently, Muna app is on public testing. You can [Download Muna on Google plays
 - [Telegram Community](https://t.me/munacommunity)
 
 ### Aha, we can talk about me now 😂
-I'm a visionary. I don't just think, i commit my time and resources. I'm CEO at Muna Wallet and Quru Lab, a web, mobile and blockchain development lab in Agbor, Nigeria. I'm also Africa regional lead at Waves Protocol
+I'm a visionary. I don't just think, i commit my time and resources. I'm CEO at Muna Wallet and Quru Lab, a web, mobile and blockchain development lab in Delta, Nigeria. I'm also Africa regional lead at Waves Protocol
 
 - 🔭 I’m currently running a software development company, building Muna Wallet and mentoring on the Blockchain space.
 - 💬 You can ask me about Africa, Cryptocurrency, Bitcoin, Blockchain and how to start career in tech.
